@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="zh-CN">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="zh-CN">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="zh-CN">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>不負責任 | 【blog圖黨】™</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://blogtd.org/xmlrpc.php" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<!--[if lt IE 9]>
+<script src="http://blogtd.org/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="【blog圖黨】™ &raquo; Feed" href="http://blogtd.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="【blog圖黨】™ &raquo; 评论Feed" href="http://blogtd.org/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="【blog圖黨】™ &raquo; 不負責任评论Feed" href="http://blogtd.org/2010/04/06/%e4%b8%8d%e8%b2%a0%e8%b2%ac%e4%bb%bb/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/blogtd.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://blogtd.org/wp-includes/css/dist/block-library/style.min.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://blogtd.org/wp-content/themes/twentytwelve/style.css?ver=5.1.6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://blogtd.org/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='https://api.w.org/' href='http://blogtd.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogtd.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogtd.org/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='【blog圖黨】™幾年（紀念）筆記本附贈貼紙預覽' href='http://blogtd.org/2010/04/04/%e3%80%90blog%e5%9c%96%e9%bb%a8%e3%80%91%e2%84%a2%e5%b9%be%e5%b9%b4%ef%bc%88%e7%b4%80%e5%bf%b5%ef%bc%89%e7%ad%86%e8%a8%98%e6%9c%ac%e9%99%84%e8%b4%88%e8%b2%bc%e7%b4%99%e9%a0%90%e8%a6%bd/' />
+<link rel='next' title='没心思' href='http://blogtd.org/2010/04/09/%e6%b2%a1%e5%bf%83%e6%80%9d/' />
+<meta name="generator" content="WordPress 5.1.6" />
+<link rel="canonical" href="http://blogtd.org/2010/04/06/%e4%b8%8d%e8%b2%a0%e8%b2%ac%e4%bb%bb/" />
+<link rel='shortlink' href='http://blogtd.org/?p=645647' />
+<link rel="alternate" type="application/json+oembed" href="http://blogtd.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fblogtd.org%2F2010%2F04%2F06%2F%25e4%25b8%258d%25e8%25b2%25a0%25e8%25b2%25ac%25e4%25bb%25bb%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://blogtd.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fblogtd.org%2F2010%2F04%2F06%2F%25e4%25b8%258d%25e8%25b2%25a0%25e8%25b2%25ac%25e4%25bb%25bb%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="post-template-default single single-post postid-645647 single-format-standard custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="http://blogtd.org/" title="【blog圖黨】™" rel="home">【blog圖黨】™</a></h1>
+			<h2 class="site-description">乖乖同學的個人漫畫空間</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">菜单</h3>
+			<a class="assistive-text" href="#content" title="跳至内容">跳至内容</a>
+			<div class="nav-menu"><ul>
+<li ><a href="http://blogtd.org/">首页</a></li></ul></div>
+		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			
+				
+	<article id="post-645647" class="post-645647 post type-post status-publish format-standard hentry category-294 tag-96 tag-269">
+				<header class="entry-header">
+									<h1 class="entry-title">不負責任</h1>
+										<div class="comments-link">
+					<a href="http://blogtd.org/2010/04/06/%e4%b8%8d%e8%b2%a0%e8%b2%ac%e4%bb%bb/#comments">3条回复</a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><img src="http://i637.photobucket.com/albums/uu92/laona163/th_200946-1.jpg" alt="" /></p>
+<p><a href="http://hiavxa.bay.livefilestore.com/y1pugGNCpL4BbClvNq2nlKvPiQL7fE7qh-Ii4jQ3BqkintbqvwORN_69q02vxd0MHU_uJqhsHQfiiT1q6Y50aa5Mk0eroIz2O4H/2009.4.6%40%E4%B8%8D%E8%B2%A0%E8%B2%AC%E4%BB%BB.jpg"><img src="http://i637.photobucket.com/albums/uu92/laona163/200946-1.jpg" alt="" width="367" height="1039" /></a></p>
+<p>【 延伸閱讀】</p>
+<h3><a href="http://news.163.com/10/0406/11/63J621CI000146BD.html">卫生部：山西和全国的疫苗安全可放心接种</a></h3>
+<h5><a href="http://news.qq.com/a/20100406/001330.htm"><em>卫生部</em>药监局通报<em>山西疫苗事件</em>(<em>实录</em>)_新闻_腾讯网</a></h5>
+<p>‎<a href="http://news.sina.com.cn/o/2010-04-06/142017330158s.shtml"><em>卫生部</em>：<em>山西疫苗安全性总体可靠疫苗管理有漏洞</em>_新闻中心_新浪网</a></p>
+<div id="divLookup" style="background-color: #d0e8f9; color: #000000; position: absolute; top: -10px; left: -48px; padding: 3px; z-index: 10000;"><img src="data:image/gif,GIF89a%12%00%12%00%B3%00%00%FF%FF%FF%F7%F7%EF%CC%CC%CC%BD%BE%BD%99%99%99ZYZRUR%00%00%00%FE%01%02%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00!%F9%04%04%14%00%FF%00%2C%00%00%00%00%12%00%12%00%00%04X0%C8I%2B%1D8%EB%3D%E4%00%60(%8A%85%17%0AG*%8C%40%19%7C%00J%08%C4%B1%92%26z%C76%FE%02%07%C2%89v%F0%7Dz%C3b%C8u%14%82V5%23o%A7%13%19L%BCY-%25%7D%A6l%DF%D0%F5%C7%02%85%5B%D82%90%CBT%87%D8i7%88Y%A8%DB%EFx%8B%DE%12%01%00%3B" border="0" alt="" /></div>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			本条目发布于<a href="http://blogtd.org/2010/04/06/%e4%b8%8d%e8%b2%a0%e8%b2%ac%e4%bb%bb/" title="07:45" rel="bookmark"><time class="entry-date" datetime="2010-04-06T07:45:57+08:00">2010/04/06</time></a>。属于<a href="http://blogtd.org/category/%e3%80%8e%e7%bd%91%e6%98%93%e8%80%81%e8%a1%b2%e3%80%8f/" rel="category tag">『网易老衲』</a>分类，被贴了 <a href="http://blogtd.org/tag/%e5%b1%b1%e8%a5%bf/" rel="tag">山西</a>、<a href="http://blogtd.org/tag/%e7%96%ab%e8%8b%97/" rel="tag">疫苗</a> 标签。<span class="by-author">作者是<span class="author vcard"><a class="url fn n" href="http://blogtd.org/author/blogtd/" title="查看所有由blogtd发布的文章" rel="author">blogtd</a></span>。</span>								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+
+				<nav class="nav-single">
+					<h3 class="assistive-text">文章导航</h3>
+					<span class="nav-previous"><a href="http://blogtd.org/2010/04/04/%e3%80%90blog%e5%9c%96%e9%bb%a8%e3%80%91%e2%84%a2%e5%b9%be%e5%b9%b4%ef%bc%88%e7%b4%80%e5%bf%b5%ef%bc%89%e7%ad%86%e8%a8%98%e6%9c%ac%e9%99%84%e8%b4%88%e8%b2%bc%e7%b4%99%e9%a0%90%e8%a6%bd/" rel="prev"><span class="meta-nav">&larr;</span> 【blog圖黨】™幾年（紀念）筆記本附贈貼紙預覽</a></span>
+					<span class="nav-next"><a href="http://blogtd.org/2010/04/09/%e6%b2%a1%e5%bf%83%e6%80%9d/" rel="next">没心思 <span class="meta-nav">&rarr;</span></a></span>
+				</nav><!-- .nav-single -->
+
+				
+<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			《<span>不負責任</span>》上有3条评论		</h2>
+
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-7019">
+		<article id="comment-7019" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://2.gravatar.com/avatar/24db0c62068720c849d31a6edb6215af?s=44&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/24db0c62068720c849d31a6edb6215af?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn"><a href='http://www.ctr-theme.com' rel='external nofollow' class='url'>Wordpress Theme</a></b> </cite><a href="http://blogtd.org/2010/04/06/%e4%b8%8d%e8%b2%a0%e8%b2%ac%e4%bb%bb/#comment-7019"><time datetime="2011-05-26T09:09:45+08:00">2011/05/2609:09</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Hello, i could not find a contact form so i am posting here. We have a website that sells a AdSense WordPress Theme, and we want to let you join us and make 60% commision. The theme price is $65 and you will get 60% commision on every sale that you generate. This is not s spam message. Please visit this link and read more about what we are talking about: <a href="http://www.ctr-theme.com/affiliates.html" rel="nofollow">http://www.ctr-theme.com/affiliates.html</a> . Kindest Regards, Flavius Ciprian &#8211; Digital Network Romania</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='/2010/04/06/%e4%b8%8d%e8%b2%a0%e8%b2%ac%e4%bb%bb/?replytocom=7019#respond' data-commentid="7019" data-postid="645647" data-belowelement="comment-7019" data-respondelement="respond" aria-label='回复给Wordpress Theme'>回复</a> <span>&darr;</span>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-7125">
+		<article id="comment-7125" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://0.gravatar.com/avatar/65084c4e7d02c56ca5f3d4bb14a0a4c1?s=44&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/65084c4e7d02c56ca5f3d4bb14a0a4c1?s=88&#038;d=mm&#038;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite><b class="fn"><a href='http://penthouse21.info' rel='external nofollow' class='url'>Waya Doyenne</a></b> </cite><a href="http://blogtd.org/2010/04/06/%e4%b8%8d%e8%b2%a0%e8%b2%ac%e4%bb%bb/#comment-7125"><time datetime="2011-05-28T15:20:15+08:00">2011/05/2815:20</time></a>			</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>I must express some thanks to the writer just for bailing me out of this particular challenge. Just after looking out through the internet and finding notions which were not powerful, I figured my life was over. Existing without the presence of solutions to the problems you&#8217;ve sorted out as a result of the article is a crucial case, as well as the kind which could have negatively damaged my entire career if I had not discovered your web blog. Your good understanding and kindness in controlling every aspect was crucial. I don&#8217;t know what I would&#8217;ve done if I hadn&#8217;t discovered such a solution like this. I&#8217;m able to now look forward to my future. Thank you very much for your skilled and result oriented guide. I won&#8217;t think twice to propose your web site to any individual who needs and wants guidance about this matter.</p>
+							</section><!-- .comment-content -->
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='/2010/04/06/%e4%b8%8d%e8%b2%a0%e8%b2%ac%e4%bb%bb/?replytocom=7125#respond' data-commentid="7125" data-postid="645647" data-belowelement="comment-7125" data-respondelement="respond" aria-label='回复给Waya Doyenne'>回复</a> <span>&darr;</span>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="trackback even thread-even depth-1" id="comment-22273">
+		<p>Pingback引用通告： <a href='http://www.fto.ro/user_detail.php?u=hubbleebsuyqzewotte' rel='external nofollow' class='url'>website designers chennai</a> </p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+		
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">发表评论 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2010/04/06/%e4%b8%8d%e8%b2%a0%e8%b2%ac%e4%bb%bb/#respond" style="display:none;">取消回复</a></small></h3>			<form action="http://blogtd.org/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+				<p class="comment-notes"><span id="email-notes">电子邮件地址不会被公开。</span> 必填项已用<span class="required">*</span>标注</p><p class="comment-form-comment"><label for="comment">评论</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">姓名 <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">电子邮件 <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">站点</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /><label for="wp-comment-cookies-consent">在此浏览器中保存我的名字、电邮和网站。</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="发表评论" /> <input type='hidden' name='comment_post_ID' value='645647' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="8b87403909" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="62"/></p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://blogtd.org/">
+				<div>
+					<label class="screen-reader-text" for="s">搜索：</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="搜索" />
+				</div>
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">近期文章</h3>		<ul>
+											<li>
+					<a href="http://blogtd.org/2019/07/17/try-it/">Try it</a>
+									</li>
+											<li>
+					<a href="http://blogtd.org/2019/07/06/%e4%bd%a0%e5%9c%8b%e4%b8%ad%e5%9c%8b%e6%88%91%e5%9c%8b/">你國中國我國</a>
+									</li>
+											<li>
+					<a href="http://blogtd.org/2019/07/02/i%e7%ac%a0hk/">I笠HK</a>
+									</li>
+											<li>
+					<a href="http://blogtd.org/2019/06/15/%e6%9a%ab%e4%bd%a0%e8%80%81%e6%af%8d/">暫你老母</a>
+									</li>
+											<li>
+					<a href="http://blogtd.org/2019/04/17/%e5%81%9a%e4%ba%86%e4%b8%80%e9%bb%9e%e7%a0%94%e7%a9%b6%e6%96%b9%e9%9d%a2%e7%9a%84%e5%b7%a5%e4%bd%9c/">做了一點研究方面的工作</a>
+									</li>
+					</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">近期评论</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://scarab13.com/new-independence-day-poster/' rel='external nofollow' class='url'>independence day poster design</a></span>发表在《<a href="http://blogtd.org/2009/12/22/zi-ji-ren/#comment-77654">自己人</a>》</li><li class="recentcomments"><span class="comment-author-link">blogtd</span>发表在《<a href="http://blogtd.org/2018/01/17/%e5%af%92/#comment-77548">寒</a>》</li><li class="recentcomments"><span class="comment-author-link">曾毅</span>发表在《<a href="http://blogtd.org/2018/01/17/%e5%af%92/#comment-77544">寒</a>》</li><li class="recentcomments"><span class="comment-author-link"><a href='http://razekhoon.net/WillianKx/tab:info' rel='external nofollow' class='url'>Augustina Pattengale</a></span>发表在《<a href="http://blogtd.org/2010/09/08/%e5%85%b6%e5%ae%9e/#comment-22812">其实</a>》</li><li class="recentcomments"><span class="comment-author-link"><a href='http://mexico.onvenia.com/clasificados/manage/?post=44645&#038;pwd=k8i1lt95&#038;action=edit' rel='external nofollow' class='url'>Byron Hatzenbuhler</a></span>发表在《<a href="http://blogtd.org/2009/11/10/dai-ke-fan-qiang/#comment-22811">代客翻墙</a>》</li></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">文章归档</h3>		<ul>
+				<li><a href='http://blogtd.org/2019/07/'>2019年七月</a></li>
+	<li><a href='http://blogtd.org/2019/06/'>2019年六月</a></li>
+	<li><a href='http://blogtd.org/2019/04/'>2019年四月</a></li>
+	<li><a href='http://blogtd.org/2019/03/'>2019年三月</a></li>
+	<li><a href='http://blogtd.org/2019/02/'>2019年二月</a></li>
+	<li><a href='http://blogtd.org/2018/12/'>2018年十二月</a></li>
+	<li><a href='http://blogtd.org/2018/11/'>2018年十一月</a></li>
+	<li><a href='http://blogtd.org/2018/10/'>2018年十月</a></li>
+	<li><a href='http://blogtd.org/2018/09/'>2018年九月</a></li>
+	<li><a href='http://blogtd.org/2018/08/'>2018年八月</a></li>
+	<li><a href='http://blogtd.org/2018/07/'>2018年七月</a></li>
+	<li><a href='http://blogtd.org/2018/06/'>2018年六月</a></li>
+	<li><a href='http://blogtd.org/2018/05/'>2018年五月</a></li>
+	<li><a href='http://blogtd.org/2018/04/'>2018年四月</a></li>
+	<li><a href='http://blogtd.org/2018/03/'>2018年三月</a></li>
+	<li><a href='http://blogtd.org/2018/01/'>2018年一月</a></li>
+	<li><a href='http://blogtd.org/2017/10/'>2017年十月</a></li>
+	<li><a href='http://blogtd.org/2017/09/'>2017年九月</a></li>
+	<li><a href='http://blogtd.org/2016/09/'>2016年九月</a></li>
+	<li><a href='http://blogtd.org/2016/08/'>2016年八月</a></li>
+	<li><a href='http://blogtd.org/2016/07/'>2016年七月</a></li>
+	<li><a href='http://blogtd.org/2016/06/'>2016年六月</a></li>
+	<li><a href='http://blogtd.org/2016/05/'>2016年五月</a></li>
+	<li><a href='http://blogtd.org/2016/04/'>2016年四月</a></li>
+	<li><a href='http://blogtd.org/2016/03/'>2016年三月</a></li>
+	<li><a href='http://blogtd.org/2016/02/'>2016年二月</a></li>
+	<li><a href='http://blogtd.org/2016/01/'>2016年一月</a></li>
+	<li><a href='http://blogtd.org/2014/06/'>2014年六月</a></li>
+	<li><a href='http://blogtd.org/2014/05/'>2014年五月</a></li>
+	<li><a href='http://blogtd.org/2014/04/'>2014年四月</a></li>
+	<li><a href='http://blogtd.org/2014/03/'>2014年三月</a></li>
+	<li><a href='http://blogtd.org/2013/01/'>2013年一月</a></li>
+	<li><a href='http://blogtd.org/2012/12/'>2012年十二月</a></li>
+	<li><a href='http://blogtd.org/2012/11/'>2012年十一月</a></li>
+	<li><a href='http://blogtd.org/2012/07/'>2012年七月</a></li>
+	<li><a href='http://blogtd.org/2012/05/'>2012年五月</a></li>
+	<li><a href='http://blogtd.org/2012/03/'>2012年三月</a></li>
+	<li><a href='http://blogtd.org/2012/01/'>2012年一月</a></li>
+	<li><a href='http://blogtd.org/2011/12/'>2011年十二月</a></li>
+	<li><a href='http://blogtd.org/2011/10/'>2011年十月</a></li>
+	<li><a href='http://blogtd.org/2011/09/'>2011年九月</a></li>
+	<li><a href='http://blogtd.org/2011/08/'>2011年八月</a></li>
+	<li><a href='http://blogtd.org/2011/06/'>2011年六月</a></li>
+	<li><a href='http://blogtd.org/2011/04/'>2011年四月</a></li>
+	<li><a href='http://blogtd.org/2011/03/'>2011年三月</a></li>
+	<li><a href='http://blogtd.org/2011/02/'>2011年二月</a></li>
+	<li><a href='http://blogtd.org/2011/01/'>2011年一月</a></li>
+	<li><a href='http://blogtd.org/2010/12/'>2010年十二月</a></li>
+	<li><a href='http://blogtd.org/2010/11/'>2010年十一月</a></li>
+	<li><a href='http://blogtd.org/2010/10/'>2010年十月</a></li>
+	<li><a href='http://blogtd.org/2010/09/'>2010年九月</a></li>
+	<li><a href='http://blogtd.org/2010/08/'>2010年八月</a></li>
+	<li><a href='http://blogtd.org/2010/07/'>2010年七月</a></li>
+	<li><a href='http://blogtd.org/2010/06/'>2010年六月</a></li>
+	<li><a href='http://blogtd.org/2010/05/'>2010年五月</a></li>
+	<li><a href='http://blogtd.org/2010/04/'>2010年四月</a></li>
+	<li><a href='http://blogtd.org/2010/03/'>2010年三月</a></li>
+	<li><a href='http://blogtd.org/2010/02/'>2010年二月</a></li>
+	<li><a href='http://blogtd.org/2010/01/'>2010年一月</a></li>
+	<li><a href='http://blogtd.org/2009/12/'>2009年十二月</a></li>
+	<li><a href='http://blogtd.org/2009/11/'>2009年十一月</a></li>
+	<li><a href='http://blogtd.org/2009/10/'>2009年十月</a></li>
+	<li><a href='http://blogtd.org/2009/09/'>2009年九月</a></li>
+	<li><a href='http://blogtd.org/2009/08/'>2009年八月</a></li>
+	<li><a href='http://blogtd.org/2009/07/'>2009年七月</a></li>
+	<li><a href='http://blogtd.org/2009/06/'>2009年六月</a></li>
+	<li><a href='http://blogtd.org/2009/05/'>2009年五月</a></li>
+	<li><a href='http://blogtd.org/2009/04/'>2009年四月</a></li>
+	<li><a href='http://blogtd.org/2009/03/'>2009年三月</a></li>
+	<li><a href='http://blogtd.org/2009/02/'>2009年二月</a></li>
+	<li><a href='http://blogtd.org/2009/01/'>2009年一月</a></li>
+	<li><a href='http://blogtd.org/2008/12/'>2008年十二月</a></li>
+	<li><a href='http://blogtd.org/2008/11/'>2008年十一月</a></li>
+	<li><a href='http://blogtd.org/2008/10/'>2008年十月</a></li>
+	<li><a href='http://blogtd.org/2008/09/'>2008年九月</a></li>
+	<li><a href='http://blogtd.org/2008/08/'>2008年八月</a></li>
+	<li><a href='http://blogtd.org/2008/07/'>2008年七月</a></li>
+	<li><a href='http://blogtd.org/2008/06/'>2008年六月</a></li>
+	<li><a href='http://blogtd.org/2008/05/'>2008年五月</a></li>
+	<li><a href='http://blogtd.org/2008/04/'>2008年四月</a></li>
+	<li><a href='http://blogtd.org/2008/03/'>2008年三月</a></li>
+	<li><a href='http://blogtd.org/2008/02/'>2008年二月</a></li>
+	<li><a href='http://blogtd.org/2008/01/'>2008年一月</a></li>
+	<li><a href='http://blogtd.org/2007/12/'>2007年十二月</a></li>
+	<li><a href='http://blogtd.org/2007/11/'>2007年十一月</a></li>
+	<li><a href='http://blogtd.org/2007/10/'>2007年十月</a></li>
+	<li><a href='http://blogtd.org/2007/09/'>2007年九月</a></li>
+	<li><a href='http://blogtd.org/2007/08/'>2007年八月</a></li>
+	<li><a href='http://blogtd.org/2007/07/'>2007年七月</a></li>
+	<li><a href='http://blogtd.org/2007/06/'>2007年六月</a></li>
+	<li><a href='http://blogtd.org/2007/05/'>2007年五月</a></li>
+	<li><a href='http://blogtd.org/2007/04/'>2007年四月</a></li>
+	<li><a href='http://blogtd.org/2007/03/'>2007年三月</a></li>
+	<li><a href='http://blogtd.org/2007/02/'>2007年二月</a></li>
+	<li><a href='http://blogtd.org/2007/01/'>2007年一月</a></li>
+		</ul>
+			</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">分类目录</h3>		<ul>
+				<li class="cat-item cat-item-294"><a href="http://blogtd.org/category/%e3%80%8e%e7%bd%91%e6%98%93%e8%80%81%e8%a1%b2%e3%80%8f/" >『网易老衲』</a>
+</li>
+	<li class="cat-item cat-item-296"><a href="http://blogtd.org/category/%e2%97%86%e6%b6%82%e9%b8%a6%e6%97%a5%e5%bf%97%e2%97%86/" >◆涂鸦日志◆</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blogtd.org/category/blog%e5%9c%96%e9%bb%a8/" >blog圖黨</a>
+</li>
+	<li class="cat-item cat-item-249"><a href="http://blogtd.org/category/chinglish-word/" >chinglish</a>
+</li>
+	<li class="cat-item cat-item-319"><a href="http://blogtd.org/category/mary/" >Mary</a>
+</li>
+	<li class="cat-item cat-item-337"><a href="http://blogtd.org/category/word-to-world/" >word to world</a>
+</li>
+	<li class="cat-item cat-item-335"><a href="http://blogtd.org/category/world/" >world</a>
+</li>
+	<li class="cat-item cat-item-327"><a href="http://blogtd.org/category/%e4%b8%80%e5%8f%aa%e6%94%bf%e6%b2%bb%e4%b8%8d%e6%ad%a3%e7%a1%ae%e7%9a%84%e8%9b%8b/" >一只政治不正确的蛋</a>
+</li>
+	<li class="cat-item cat-item-315"><a href="http://blogtd.org/category/%e5%91%a8%e8%be%b9%e4%ba%a7%e5%93%81/" >周边产品</a>
+</li>
+	<li class="cat-item cat-item-198"><a href="http://blogtd.org/category/%e5%9b%bd%e4%ba%a7%e9%9b%b6%e9%9b%b6%e5%90%8e/" >国产零零后</a>
+</li>
+	<li class="cat-item cat-item-328"><a href="http://blogtd.org/category/%e5%ad%97%e5%8a%a8%e5%8c%96/" >字动化</a>
+</li>
+	<li class="cat-item cat-item-340"><a href="http://blogtd.org/category/%e5%b0%8f%e4%b9%96%e8%8d%89/" >小乖草</a>
+</li>
+	<li class="cat-item cat-item-271"><a href="http://blogtd.org/category/%e5%be%ae%e6%bc%ab%e7%94%bb/" >微漫画</a>
+</li>
+	<li class="cat-item cat-item-260"><a href="http://blogtd.org/category/%e6%9d%8e%e5%8d%9a%e7%89%b9/" >李博特</a>
+</li>
+	<li class="cat-item cat-item-298"><a href="http://blogtd.org/category/%e6%a8%a1%e4%bb%bfshow/" >模仿show</a>
+</li>
+	<li class="cat-item cat-item-339"><a href="http://blogtd.org/category/%e6%ad%aa%e6%94%b9%e6%ad%8c%e8%a9%9e/" >歪改歌詞</a>
+</li>
+	<li class="cat-item cat-item-317"><a href="http://blogtd.org/category/%e7%81%ab%e6%9f%b4%e5%a4%a9%e5%a0%82/" >火柴天堂</a>
+</li>
+	<li class="cat-item cat-item-297"><a href="http://blogtd.org/category/%e2%98%85%e7%99%bc%e7%99%bd%e6%97%a5%e6%a2%a6%e2%98%85/" >白日梦</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://blogtd.org/category/laona/" >老衲漫画</a>
+</li>
+	<li class="cat-item cat-item-265"><a href="http://blogtd.org/category/%e8%87%aa%e7%94%b1%e8%a1%8c/" >自由行</a>
+</li>
+	<li class="cat-item cat-item-194"><a href="http://blogtd.org/category/%e8%a1%a8%e6%83%85/" >表情</a>
+</li>
+	<li class="cat-item cat-item-233"><a href="http://blogtd.org/category/blog%e5%9c%96%e9%bb%a8/%e8%ae%b2%e5%b8%a6%e7%94%bb/" >讲带画</a>
+</li>
+	<li class="cat-item cat-item-195"><a href="http://blogtd.org/category/%e8%bd%ac%e8%bd%bd/" >转载</a>
+</li>
+	<li class="cat-item cat-item-259"><a href="http://blogtd.org/category/zhaozi/" >造字</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://blogtd.org/category/mlgb/" >马勒歌碧</a>
+</li>
+		</ul>
+			</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">功能</h3>			<ul>
+						<li><a href="http://blogtd.org/wp-login.php">登录</a></li>
+			<li><a href="http://blogtd.org/feed/">文章<abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogtd.org/comments/feed/">评论<abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://cn.wordpress.org/" title="基于WordPress，一个优美、先进的个人信息发布平台。">WordPress.org</a></li>			</ul>
+			</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<a href="http://cn.wordpress.org/" title="优雅的个人发布平台">自豪地采用WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://blogtd.org/wp-includes/js/comment-reply.min.js?ver=5.1.6'></script>
+<script type='text/javascript' src='http://blogtd.org/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+<script type='text/javascript' src='http://blogtd.org/wp-includes/js/wp-embed.min.js?ver=5.1.6'></script>
+<script async="async" type='text/javascript' src='http://blogtd.org/wp-content/plugins/akismet/_inc/form.js?ver=4.1.4'></script>
+</body>
+</html>
